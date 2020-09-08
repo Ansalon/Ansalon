@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Azure processes automation tasks
-- 🌱 I’m currently learning Flutter, Laravel and ElectronJS
+- 🌱 I’m currently learning ElectronJS and continue to improve Flutter&Laravel 
 - 👯 I’m looking to collaborate on GameDev and Mobile developers
 - 💬 Ask me about any frontend issues
 - 📫 How to reach me: linkedin or telegram
